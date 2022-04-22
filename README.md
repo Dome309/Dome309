@@ -1,4 +1,4 @@
-<li>👋 Hi, I’m @Dome309
+#👋 Hi, I’m @Dome309
 <li>:round_pushpin: i'm from Italy
 <li>:green_book: I’m interested in Android development 
 <li>:iphone: I’m currently learning Kotlin
