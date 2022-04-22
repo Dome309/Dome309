@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @Dome309
-- 👀 I’m interested in Android development 
+
+- :round_pushpin: i'm from Italy
+
+- :green_book: I’m interested in Android development 
+
 - :iphone: I’m currently learning Kotlin
 
 
