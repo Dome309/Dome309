@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Dome309
+-👋 Hi, I’m @Dome309
 
-- :round_pushpin: i'm from Italy
+-:round_pushpin: i'm from Italy
 
-- :green_book: I’m interested in Android development 
+-:green_book: I’m interested in Android development 
 
-- :iphone: I’m currently learning Kotlin
+-:iphone: I’m currently learning Kotlin
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dome309)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dome309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
