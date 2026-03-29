@@ -7,6 +7,8 @@
 - 👀 I'm interested in **IoT, AI and new technologies**
 - 🎓 CS Graduate
 
+<details>
+<summary>📖 Show more</summary>
 <br>
 
 ## 🧰 Tech Stack
