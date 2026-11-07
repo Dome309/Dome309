@@ -15,7 +15,7 @@
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,jquery,bootstrap,docker,git" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,jquery,bootstrap,docker,git" />
 
 **Database**
 
