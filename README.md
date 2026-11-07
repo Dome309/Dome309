@@ -45,16 +45,10 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats-iota-liard-51.vercel.app/api?username=Dome309&show_icons=true&theme=dracula&count_private=true&hide_border=true&card_width=467&line_height=20"/>
-    </td>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats-iota-liard-51.vercel.app/api/top-langs/?username=Dome309&layout=compact&theme=dracula&hide_border=true&card_width=467"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="top" width="48%" src="https://github-readme-stats-iota-liard-51.vercel.app/api?username=Dome309&show_icons=true&theme=dracula&count_private=true&hide_border=true&card_width=467&line_height=28"/>
+  <img align="top" width="48%" src="https://github-readme-stats-iota-liard-51.vercel.app/api/top-langs/?username=Dome309&layout=compact&theme=dracula&hide_border=true&card_width=360"/>
+</p>
 
 ## 📫 Contacts
 
