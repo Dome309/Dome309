@@ -1,52 +1,61 @@
 <h1 align="center">Hey, I'm Dome 👋</h1>
 <h3 align="center">Junior .NET Backend Developer</h3>
-<br>
 
-- 💼 I'm currently working as a **Junior .NET Backend Developer**
-- 🛠️ I enjoy building **well-crafted applications** with clean architecture
-- 👀 I'm interested in **IoT, AI and new technologies**
+<p align="center">
+  Building clean, maintainable applications with .NET, Curious about IoT, AI and new technologies.
+</p>
+
+---
+
+## 👨‍💻 About me
+
+- 💼 Working as a **Junior .NET Backend Developer**
+- 🛠️ I like **clean architecture** and well-crafted applications
 - 🎓 CS Graduate
-
-<details>
-<summary>📖 Show more</summary>
-<br>
+- 👀 Exploring **IoT, AI and new technologies**
 
 ## 🧰 Tech Stack
 
-**Core**
+**Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,jquery,bootstrap,docker,git" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,blazor&theme=dark" />
 
-**Database**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=js,jquery,bootstrap&theme=dark" />
 
-**DevOps & Tools**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=jenkins,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
 
-**Also used**
+**Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=java,python,php,xd,ps" />
+<img src="https://skillicons.dev/icons?i=docker,git,jenkins,postman&theme=dark" />
 
-**Also working with**
+**Also worked with**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,php&theme=dark" />
 
 ![ABP.io](https://img.shields.io/badge/ABP.io-4A90D9?style=flat-square&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Blazorise](https://img.shields.io/badge/Blazorise-7B2FBE?style=flat-square&logoColor=white)
 ![Syncfusion](https://img.shields.io/badge/Syncfusion-FF7200?style=flat-square&logoColor=white)
-![NopCommerce](https://img.shields.io/badge/nopCommerce-9B59B6?style=flat-square&logoColor=white)
+![nopCommerce](https://img.shields.io/badge/nopCommerce-9B59B6?style=flat-square&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP-EA4335?style=flat-square&logo=gmail&logoColor=white)
-![FTP](https://img.shields.io/badge/FTP-003399?style=flat-square&logoColor=white)
-
-<br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Dome309&show_icons=true&theme=dracula"/>
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dome309&layout=compact&theme=dracula"/>
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats-iota-liard-51.vercel.app/api?username=Dome309&show_icons=true&theme=dracula&count_private=true&hide_border=true&card_width=467&line_height=20"/>
+    </td>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats-iota-liard-51.vercel.app/api/top-langs/?username=Dome309&layout=compact&theme=dracula&hide_border=true&card_width=467"/>
+    </td>
+  </tr>
+</table>
+
+## 📫 Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/domenico-rizzo-aa3950265/)
